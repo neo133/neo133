@@ -18,4 +18,3 @@ I'm the Co-Founder of Frinks.ai, based out of Bangalore, India. I also have a di
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/subhra1995/)
-- [Google Scholar](https://scholar.google.com/citations?user=tHvGYyIAAAAJ&hl=en)
