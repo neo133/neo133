@@ -1,11 +1,11 @@
 # Hello, I'm Subhra Shankha! 👋
 
-I'm the Co-Founder of Frinks.ai, based out of Bangalore, India. I also have a diploma in painting.
+I'm the Co-Founder of Frinks.ai, based out of Bangalore, India. I like to paint.
 
 ## About Me
 
 - 💼 Currently working as a CTO and Head of AI.
-- 🌱 I'm currently learning about AI fairness and uncertainty.
+- 🌱 I'm currently learning about AI fairness, Point Clouds and optimization.
 - 💬 Ask me about Python, AI, Data Science, and Computer Vision.
 - 📫 How to reach me: subhra@frinks.ai
 - ⚡ Fun fact: I completed Call of Duty: Ghosts within 3hrs 30mins which is 2hrs 30mins faster than the median time to beat.
@@ -13,7 +13,7 @@ I'm the Co-Founder of Frinks.ai, based out of Bangalore, India. I also have a di
 ## Skills
 
 - Programming Languages: Python, C++.
-- Technologies & Tools: PyTorch, TensorFlow, Scipy, ONNX, OpenCV, Docker, Redis, MATLAB, TensorRT, OpenVINO, SQL.
+- Tools: PyTorch, TensorFlow, Scipy, ONNX, OpenCV, Docker, Redis, MATLAB, TensorRT, OpenVINO, Open3d, Numba, Cupy, Pycuda.
 
 ## Connect with Me
 
