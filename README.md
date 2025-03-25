@@ -13,7 +13,7 @@ I'm the Co-Founder of Frinks.ai, based out of Bangalore, India.
 ## Skills
 
 - Programming Languages: Python.
-- Tools: PyTorch, TensorFlow, Scipy, ONNX, OpenCV, Docker, Redis, MATLAB, TensorRT, OpenVINO, Open3d, Numba, Cupy, Pycuda.
+- Tools: PyTorch, TensorFlow, Scipy, ONNX, OpenCV, Docker, MATLAB, TensorRT, OpenVINO, Open3d, Numba, Cupy, Pycuda.
 
 ## Connect with Me
 
