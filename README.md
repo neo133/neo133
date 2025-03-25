@@ -1,10 +1,10 @@
 # Hello, I'm Subhra Shankha! 👋
 
-I'm the Co-Founder of Frinks.ai, based out of Bangalore, India. I like to paint.
+I'm the Co-Founder of Frinks.ai, based out of Bangalore, India.
 
 ## About Me
 
-- 💼 Currently working as a CTO and Head of AI.
+- 💼 Currently working as a CTO and Head of AI R&D.
 - 🌱 I'm currently learning about Anomaly Detection, Point Clouds processing.
 - 💬 Ask me about Python, AI, Data Science, and Computer Vision.
 - 📫 How to reach me: subhra@frinks.ai
@@ -12,7 +12,7 @@ I'm the Co-Founder of Frinks.ai, based out of Bangalore, India. I like to paint.
 
 ## Skills
 
-- Programming Languages: Python, C++.
+- Programming Languages: Python.
 - Tools: PyTorch, TensorFlow, Scipy, ONNX, OpenCV, Docker, Redis, MATLAB, TensorRT, OpenVINO, Open3d, Numba, Cupy, Pycuda.
 
 ## Connect with Me
