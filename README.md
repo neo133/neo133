@@ -5,7 +5,7 @@ I'm the Co-Founder of Frinks.ai, based out of Bangalore, India.
 ## About Me
 
 - 💼 Currently working as a CTO and Head of AI R&D.
-- 🌱 I'm currently learning about 3D image processing.
+- 🌱 I'm currently learning about large image processing like 8k or 16k images.
 - 💬 Ask me about Python, AI, Data Science, and Computer Vision.
 - 📫 How to reach me: subhra@frinks.ai
 - ⚡ Fun fact: I completed Call of Duty: Ghosts within 3hrs 30mins which is 2hrs 30mins faster than the median time to beat.
