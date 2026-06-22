@@ -8,7 +8,7 @@ I'm the Co-Founder of Frinks.ai, based out of Bangalore, India.
 - 🌱 I'm currently learning about large image processing like 8k or 16k images.
 - 💬 Ask me about Python, AI, Data Science, and Computer Vision.
 - 📫 How to reach me: subhra@frinks.ai
-- ⚡ Fun fact: I completed Call of Duty: Ghosts within 3hrs 30mins which is 2hrs 30mins faster than the median time to beat.
+- ⚡ Fun fact: I completed Call of Duty: Ghosts within 4hrs 30mins which is 1hrs 30mins faster than the median time to beat.
 
 ## Skills
 
