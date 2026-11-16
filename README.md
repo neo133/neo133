@@ -2,14 +2,14 @@
 
 **Co-Founder & CTO at Frinks.ai | AI & Computer Vision**
 
-I build AI-powered computer vision systems for **industrial quality inspection**, with a focus on surface anomaly detection, 2D/3D vision, and production-ready AI deployment.
+I like CNN and Transformers.
+At Frinks, I look after AI R&D and overall tech development of the company.
 
 ### 🔬 Currently Working On
 
 - Surface anomaly detection under multi-lighting scenarios
-- Industrial Computer Vision & Automated Inspection
-- 2D/3D Vision and defect detection
-- AI model optimization & deployment
+- 3D point clounds
+- AI model training and inference optimization
 
 ### 🛠️ Tech Stack
 
